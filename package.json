@@ -1,0 +1,25 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "A test Electron application",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "node ./node_modules/mocha/bin/mocha"
+  },
+  "keywords": [
+    "Electron",
+    "quick",
+    "test"
+  ],
+  "author": "Petr",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "electron": "^1.4.1",
+    "electron-prebuilt": "^1.4.13",
+    "mocha": "^3.2.0"
+  },
+  "dependencies": {
+    "fs": "0.0.1-security"
+  }
+}
