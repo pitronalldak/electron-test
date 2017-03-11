@@ -16,7 +16,6 @@
   "devDependencies": {
     "chai": "^3.5.0",
     "electron": "^1.4.1",
-    "electron-prebuilt": "^1.4.13",
     "mocha": "^3.2.0"
   },
   "dependencies": {
